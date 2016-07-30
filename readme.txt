@@ -3,7 +3,8 @@ using namespace std;
 //我的第一个git
 int main()
 {
-	int a=6；
-	cout<<a<<endl;
+	int a=6;
+	int b=8;
+	cout<<a<<" "<<b<<endl;
 	return 0;
 }
